@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main () {
+func variableDemo() {
 	var name = "ROSTOM ALI"
 	fmt.Println(name)
 }
